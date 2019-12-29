@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>搭建个人博客2019.12.29</title>
+    <link href="/2019/12/29/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A22019.12.29/"/>
+    <url>/2019/12/29/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A22019.12.29/</url>
+    
+    <content type="html"><![CDATA[<h1 id="搭建个人博客"><a href="#搭建个人博客" class="headerlink" title="搭建个人博客"></a>搭建个人博客</h1><p>极好的教程：<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">https://blog.csdn.net/sinat_37781304/article/details/82729029</a></p><p>简洁好看的主题：</p><p><img src="C:%5CUsers%5Cleo%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1577599164040.png" srcset="/img/loading.gif" alt="1577599164040"></p><p>​    NexT：<a href="https://github.com/theme-next/hexo-theme-next" target="_blank" rel="noopener">https://github.com/theme-next/hexo-theme-next</a></p><p>hueman：<a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="noopener">https://github.com/ppoffice/hexo-theme-hueman</a></p><p>我使用的主题：</p><p>fluid：<a href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%85%B3%E4%BA%8E-hexo-%E7%9A%84%E9%85%8D%E7%BD%AE" target="_blank" rel="noopener">https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%85%B3%E4%BA%8E-hexo-%E7%9A%84%E9%85%8D%E7%BD%AE</a></p><p>博客交给git托管了。</p><p>下面修改一下fluid的界面吧。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2019/12/29/hello-world/"/>
     <url>/2019/12/29/hello-world/</url>
